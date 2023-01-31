@@ -15,6 +15,7 @@ public class Book {
 	@Id
 	private int id;
 	private String bookName;
+	private double price;
 	private String authorName;
 	
 
